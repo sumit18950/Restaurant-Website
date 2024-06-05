@@ -3,17 +3,17 @@
 ![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/9f919384-8c36-458b-a6f4-c44b5980bdc6)
 
 Welcome to the repository for our Restaurant Website, an engaging and user-friendly platform built with HTML, CSS, and JavaScript. This website offers a range of features designed to enhance the dining experience for customers.
-![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/6bfa9561-d5de-429d-a919-0bce76f51c1b)
 
 **Features**
 
 User-Friendly Interface: Intuitive and responsive design for seamless navigation.
 
 Menu Viewing: Browse through a detailed menu with images, descriptions, and prices.
-![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/1cb27ee7-b416-46da-a213-76f3ea3c5f31)
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/6bfa9561-d5de-429d-a919-0bce76f51c1b)
 
 
 Table Booking: Easily book a table at your favorite restaurant directly from the website.
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/1cb27ee7-b416-46da-a213-76f3ea3c5f31)
 
 Special Offers: View and avail exclusive discounts and offers.
 
