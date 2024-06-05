@@ -30,3 +30,20 @@ Newsletter Subscription: Sign up for the restaurant's newsletter to stay updated
 **CSS:** For styling and responsive design to ensure a visually appealing and user-friendly interface.
 
 **JavaScript:** For dynamic content and interactive features to enhance user engagement.
+
+
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/21368d16-386a-4740-bf6d-4a90a6a8f0ca)
+
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/9f919384-8c36-458b-a6f4-c44b5980bdc6)
+
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/6bfa9561-d5de-429d-a919-0bce76f51c1b)
+
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/1cb27ee7-b416-46da-a213-76f3ea3c5f31)
+
+
+![image](https://github.com/sumit18950/Restaurant-Website/assets/171650943/8131e629-463a-40eb-8d00-ab2b15099615)
+
+
+
+
+
