@@ -1,7 +1,8 @@
-Restaurant Website
+**Restaurant Website**
+
 Welcome to the repository for our Restaurant Website, an engaging and user-friendly platform built with HTML, CSS, and JavaScript. This website offers a range of features designed to enhance the dining experience for customers.
 
-Features
+**Features**
 
 User-Friendly Interface: Intuitive and responsive design for seamless navigation.
 
@@ -21,10 +22,11 @@ Gallery: View a gallery of images showcasing the restaurant’s ambiance and dis
 Contact Information: Easily access the restaurant’s contact details and location with integrated maps.
 
 Newsletter Subscription: Sign up for the restaurant's newsletter to stay updated on new dishes, events, and offers.
-Technologies Used
 
-HTML: For the structure and layout of the web pages.
+**Technologies Used**
 
-CSS: For styling and responsive design to ensure a visually appealing and user-friendly interface.
+**HTML:** For the structure and layout of the web pages.
 
-JavaScript: For dynamic content and interactive features to enhance user engagement.
+**CSS:** For styling and responsive design to ensure a visually appealing and user-friendly interface.
+
+**JavaScript:** For dynamic content and interactive features to enhance user engagement.
